@@ -5,7 +5,7 @@ I enjoy building end-to-end projects that turn data into practical, scalable sol
 
 ### 🔧 Tech Stack
 - **Languages:** C, C++, Python, SQL, JavaScript, HTML, R-Language
-- **Data & ML:** Pandas, NumPy, scikit-learn, matplotlib, seaborn, keras, Tensorflow, PyTorch, OpenCV, 
+- **Data & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Keras, Tensorflow, PyTorch, OpenCV, 
 - **Databases:** SQL, PostgreSQL, Oracle
 - **Cloud & Devops:** AWS, Azure, Railway, Docker, Kubernetes
 
